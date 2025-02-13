@@ -35,9 +35,16 @@
 
 **Example Usage:** Suppose you have a 501MB executable file that you suspect may contain malware.  You can use our program to generate its SHA-256 hash. You then submit this hash to VirusTotal or JoeSandbox for analysis. If multiple tools detect malicious activity associated with this specific hash, it’s highly likely that the file is indeed malicious.  This process avoids the need to upload the entire 500MB file.
 
-**Future Development:** We plan to enhance this program by:
+**Hashes for Verification:**
+
+- **MD5:** 101c7af487aa899fa66791d66ba26c5e
+- **SHA-1:** d4d0e581aa67901d7128a6dbfc72e9547cd663f2
+- **SHA-256:** 633fc41cd08fc7b8584e48cd90b427943a03c95c77fbebe6a22f5e6ba8c20c65
+
+**Future Development:** Plan to enhance this program by:
 
 * Adding support for other hashing algorithms (e.g., BLAKE2, SHA-3).
 * Improving the user interface and experience.
 * Exploring integration with virustotal to search for the hash
 * Dark Mode
+* See about Signing the Program with a CA
