@@ -1,7 +1,7 @@
 # File Hash Generator
 
 [![Made With Love](https://img.shields.io/badge/Made%20with%20%E2%9D%A4%EF%B8%8F-by%20Jonathan-red)](https://github.com/MrGuato/File-Hash-Generator)
-[![Downloads](https://img.shields.io/github/downloads/MrGuato/File-Hash-Generator/total)](https://github.com/MrGuato/File-Hash-Generator/releases)
+[![Downloads](https://img.shields.io/github/downloads/MrGuato/File-Hash-Generator/total)](https://github.com/MrGuato/File-Hash-Generator/releases/tag/v1.0)
 [![Stars](https://img.shields.io/github/stars/MrGuato/File-Hash-Generator)](https://github.com/MrGuato/File-Hash-Generator/stargazers)
 ![Forks](https://img.shields.io/github/forks/MrGuato/File-Hash-Generator)
 [![Known Vulnerabilities](https://snyk.io/test/github/MrGuato/File-Hash-Generator/badge.svg)](https://snyk.io/test/github/MrGuato/File-Hash-Generator)
