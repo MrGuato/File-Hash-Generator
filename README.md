@@ -4,7 +4,7 @@
 [![Downloads](https://img.shields.io/github/downloads/MrGuato/File-Hash-Generator/total)](https://github.com/MrGuato/File-Hash-Generator/releases)
 [![Stars](https://img.shields.io/github/stars/MrGuato/File-Hash-Generator)](https://github.com/MrGuato/File-Hash-Generator/stargazers)
 ![Forks](https://img.shields.io/github/forks/MrGuato/File-Hash-Generator)
-![Issues](https://img.shields.io/github/issues/MrGuato/File-Hash-Generator)
+[![Known Vulnerabilities](https://snyk.io/test/github/MrGuato/File-Hash-Generator/badge.svg)](https://snyk.io/test/github/MrGuato/File-Hash-Generator)
 ![Last Commit](https://img.shields.io/github/last-commit/MrGuato/File-Hash-Generator)
 ![Top Language](https://img.shields.io/github/languages/top/MrGuato/File-Hash-Generator)
 ![License](https://img.shields.io/github/license/MrGuato/File-Hash-Generator)
